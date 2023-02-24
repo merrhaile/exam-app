@@ -1,0 +1,84 @@
+ [
+    {
+        "id": 1,
+        "question": "Which CSS property allows you to hide an element but still maintain the space it occupies on the web page",
+        "answers" : [
+            "display:none;","visibility:hidden", "display:hidden", "none:hidden"
+        ],
+         "correct" : "visibility:hidden"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is NOT a valid CSS length unit?",
+        "answers" : [
+            "cm","em", "dm", "All of the above"
+        ],
+         "correct" : "dm"
+    },
+    {
+        "id": 3,
+        "question": "What is the CSS selector which allows you to target every element in a web page?",
+        "answers" : [
+            "*",":: root", ">", "<"
+        ],
+         "correct" : "*"
+    },
+    {
+        "id": 4,
+        "question": "Which of the following CSS properties DOES NOT influence the box model?",
+        "answers" : [
+            "Outline","Padding", "Contnent"
+        ],
+         "correct" : "Outline"
+    },
+    {
+        "id": 5,
+        "question": "How will you select the anchor element whose href attribute starts with https?",
+        "answers" : [
+            "a[href*='https","a[href^='https", "a[href$='https", "a[href~='https"
+        ],
+         "correct" : "a[href^='https"
+    },
+    {
+        "id": 6,
+        "question": "What CSS3 property is used for capitalizing the text or converting them to lowercase or uppercase?",
+        "answers" : [
+            "text-transform","text-translate", "text-convert", "text-format"
+        ],
+         "correct" : "a[href^='https"
+    },
+    {
+        "id": 7,
+        "question": "What property should be used in case we need to display a nice blue border that is dotted in nature around an image?",
+        "answers" : [
+            "border-dotted","border-line", "border-style", "border-decoration"
+        ],
+         "correct" : "border-dotted"
+    },
+    {
+        "id": 8,
+        "question": "Which among the following options represent correct syntax for selecting all paragraph elements in a div element?",
+        "answers" : [
+            "div + p","div < p", "div p", "div - p"
+        ],
+         "correct" : "div p"
+    },
+    {
+        "id": 9,
+        "question": "What CSS3 property is used for the set distance between borders of adjacent tables cells?",
+        "answers" : [
+            "border-spacing","border-collapse", "cell-spacing", "cell-colapse"
+        ],
+         "correct" : "border-spacing"
+    },
+    {
+        "id": 10,
+        "question": "Which of the below options are used for defining the difference between two lines of the content?",
+        "answers" : [
+            "line-distance","line-gap", "line-height", "line-min"
+        ],
+         "correct" : "line-height"
+    }
+
+
+]

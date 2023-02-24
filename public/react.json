@@ -1,0 +1,82 @@
+[
+        {
+        "id": 1,
+        "question": "What is React or ReactJS?",
+        "answers" : [
+            "Component-based Javascript library", "Javascript framework","Javascript file", "None of the above"
+        ],
+         "correct" : "Component-based Javascript library"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following comes under the advantages of React?",
+        "answers" : [
+            "Integration with other frameworks (like BackboneJS, Angular, etc.) becomes easier because it is only a view library", "Increases the performance of an application using Virtual DOM", "Can render both on server and client side", "All of the above"
+        ],
+         "correct" : "All of the above"
+    },
+    {
+        "id": 3,
+        "question": "The number of elements that can be returned by a valid React component is ______.",
+        "answers" : [
+            "5","1", "3", "2"
+        ],
+         "correct" : "1"
+    },
+    {
+        "id": 4,
+        "question": "What is the declarative approach for rendering a dynamic list of components depending on array values?",
+        "answers" : [
+          " Using <Each/> component", "Using reduce array method", "Using Array.map() method", "Using for or while loop"
+        ],
+         "correct" : "Using Array.map() method"
+    },
+    {
+        "id": 5,
+        "question": "The Keys given to a list of elements in React should be ______.",
+        "answers" : [
+          " Not necessarily unique", "Unique among the siblings only", "Unique in the DOM (Document Object Model)", "None of the above"
+        ],
+         "correct" : "Unique among the siblings only"
+    },
+    {
+        "id": 6,
+        "question": "What is meant by the state in React?",
+        "answers" : ["Internal storage of component", "External storage of component", "Permanent storage", "None of the above"
+        ],
+         "correct" : "Internal storage of component"
+    },
+    {
+        "id": 7,
+        "question": "Which command can be used for the creation of React app?",
+        "answers" : [
+           " npm install create-react-app", "install -g create-react-app", "npm install create-react-app", "None of the above"
+        ],
+         "correct" : "npm install create-react-app"
+    },
+    {
+        "id": 8,
+        "question": "What is used for passing the data to a component from outside?",
+        "answers" : [
+           "Render with arguments", "setState", "PropTypes", "props"
+        ],
+         "correct" : "props"
+    },
+    {
+        "id": 9,
+        "question": "______ will help to keep the data unidirectional in React.",
+        "answers" : [
+            "Dom", "Props", "JSX", "Flux"
+        ],
+         "correct" : "Flux"
+    },
+    {
+        "id": 10,
+        "question": "What function will permit for rendering the React content in an HTML page?",
+        "answers" : [
+          " React.render()", "ReactDOM.start()", "React.mount()", "ReactDOM.render()"
+        ],
+         "correct" : "ReactDOM.render()"
+    }
+
+]

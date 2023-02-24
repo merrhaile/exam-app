@@ -1,0 +1,75 @@
+[
+        {
+        "id": 1,
+        "question": "Which of the following statements regarding JavaScript is true?",
+        "answers" : [
+            "JavaScript is Assembly-language", "JavaScript is an Object-Based language", "JavaScript is a High-level language", "JavaScript is an Object-Oriented language"
+        ],
+         "correct" : "JavaScript is an Object-Based language"
+    },
+    {
+        "id": 2,
+        "question": "In JavaScript, which of the following is not a bug?",
+        "answers" : [
+         " Make a zero division", "Semicolons are missing", "A grammatical mistake", "Bracket is missing"
+        ],
+         "correct" : "Semicolons are missing"
+    },
+    {
+        "id": 3,
+        "question": "What do you mean by block statement in JavaScript?",
+        "answers" : [
+          " Block-based on condition", "A block of code that combines many sentences together into a single compound statement.", "A single sentence as well as a conditional block", "A single-statement block is a kind of block"
+        ],
+         "correct" : "A block of code that combines many sentences together into a single compound statement."
+    },
+    {
+        "id": 4,
+        "question": "Argument class is",
+        "answers" : [
+           "Even in a dynamic state, objects inherit prototype characteristics.","Only in a dynamic state do objects inherit prototype attributes.","Prototype properties are passed down to objects in a static state","None of the previously mentioned"
+        ],
+         "correct" : "Even in a dynamic state, objects inherit prototype characteristics."
+    },
+    {
+        "id": 5,
+        "question": "Which of these String object functions gives the calling data type transformed to upper case?",
+        "answers" : [
+            "toString()", "substring()", "toUpperCase()", "toLocaleUpperCase()"
+        ],
+         "correct" : "toUpperCase()"
+    },
+    {
+        "id": 6,
+        "question": "The JSON() method's property is",
+        "answers" : [
+           "This is called directly by the JSON.stringify() method", "It cannot be summoned in any way", "It may be called programmatically as an object.JSON()", "It will be called directly by the compiler"
+        ],
+         "correct" : "This is called directly by the JSON.stringify() method"
+    },
+    {
+        "id": 7,
+        "question": "What property should be used in case we need to display a nice blue border that is dotted in nature around an image?",
+        "answers" : [
+            "border-dotted","border-line", "border-style", "border-decoration"
+        ],
+         "correct" : "border-dotted"
+    },
+    {
+        "id": 8,
+        "question": "Which of the below do not belong in the JavaScript Data Types category?",
+        "answers" : [
+            "Number","Undefined","Float","Boolean"
+        ],
+         "correct" : "Float"
+    },
+    {
+        "id": 9,
+        "question": "The interpreter for Javascript is",
+        "answers" : [
+            "Client", "Object","Server", "None of the mentioned"
+        ],
+         "correct" : "Client"
+    }
+
+]
